@@ -1,0 +1,8 @@
+.status {
+  cursor: pointer
+}
+
+.completed {
+  text-decoration: line-through;
+  color: blueviolet
+}
